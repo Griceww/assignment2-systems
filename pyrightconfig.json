@@ -1,0 +1,7 @@
+{
+  "include": ["cs336_systems", "tests"],
+  "extraPaths": ["cs336-basics"],
+  "pythonVersion": "3.12",
+  "venvPath": ".",
+  "venv": ".venv"
+}
